@@ -1,0 +1,38 @@
+{
+  "name": "cordova-plugin-cache",
+  "version": "1.1.0",
+  "description": "allows to clear the cordova webview cache",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moderna/cordova-plugin-cache.git"
+  },
+  "keywords": [
+      "webview",
+      "cache",
+      "clear"
+  ],
+  "platforms": [
+      "ios",
+      "android"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=6.0.0"
+    },
+    {
+      "name": "cordova-android",
+      "version": ">=4"
+    },
+    {
+      "name": "cordova-plugin",
+      "version": ">=4.2.0"
+    }
+  ],
+  "author": "Modern Alchemists OG",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/moderna/cordova-plugin-cache/issues"
+  },
+  "homepage": "https://github.com/moderna/cordova-plugin-cache"
+}
